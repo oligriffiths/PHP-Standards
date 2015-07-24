@@ -5,11 +5,6 @@
 
 **Date: July 14 2015**
 
-This document aims to set out a clear and concise naming standard for use in the Tumblr codebase.
-
-For the legacy naming standard (prior to August 2015), please see
-[Legacy Naming Standard](Naming - Legacy.md)
-
 ----
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
