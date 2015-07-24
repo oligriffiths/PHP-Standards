@@ -5,6 +5,11 @@
 
 **Date: July 14 2015**
 
+This document aims to set out a clear and concise naming standard for use in the Tumblr codebase.
+
+For the legacy naming standard (prior to August 2015), please see
+[Legacy Naming Standard](Naming - Legacy.md)
+
 ----
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
@@ -69,7 +74,7 @@ A fully qualified class takes one of the 2 following forms:
 **N.b.** User land code is code that constitutes your app, the code that contains business logic, 
 templates, etc, that will never intended to be re-used outside of the app. 
 Distributable/reusable code is code that doesn't contain business specific logic, and is potentially 
-reusable/distributable, regardless of if it will be distributed/reused. 
+distributable/reusable, regardless of if it will be distributed/reused. 
 Any internal frameworks for example fall in this category.
 
 ## 3. Examples
