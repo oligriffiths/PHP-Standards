@@ -1,10 +1,5 @@
 # Autoloading Standard
 
-For an overview of how autoloading works, see [Autoloading Overview](README.md)
-
-For the legacy autoloading standard (prior to August 2015) please see
-[Legacy Autoloading Standard](Autoloading - Legacy.md)
-
 ----
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
