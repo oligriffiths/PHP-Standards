@@ -5,11 +5,6 @@
 
 **Date: July 14 2015**
 
-This document aims to set out a clear and concise naming standard for use in the Tumblr codebase.
-
-For the legacy naming standard (prior to August 2015), please see
-[Legacy Naming Standard](Naming - Legacy.md)
-
 ----
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
@@ -67,9 +62,9 @@ A fully qualified class takes one of the 2 following forms:
 
 6. All class names MUST be referenced in a case-sensitive fashion.
 
-7. User land code (non-distributable/reuable app code) MUST not be namespaced.
+7. User land code (non-distributable/reusable app code) MUST not be namespaced.
 
-8. Distributable/reuable non user land code MUST be namespaced.
+8. Distributable/reusable non user land code MUST be namespaced.
 
 **N.b.** User land code is code that constitutes your app, the code that contains business logic, 
 templates, etc, that will never intended to be re-used outside of the app. 
