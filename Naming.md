@@ -108,7 +108,7 @@ class FilterChain
 }
 ```
 
-## Adendum: PSR 0/4
+## Addendum: PSR 0/4
 
 The [PHP FIG](http://www.php-fig.org/) have developed 2 standards for naming conventions, PSR0 and PSR4,
 with 0 being deprecated in favor of 4. These standards are flawed in their definition and force developer
